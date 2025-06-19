@@ -1,5 +1,8 @@
 # Calculadora Científica en Flutter
 
+Nombre: Francis Guaman
+
+
 Este es un proyecto de una **calculadora científica** desarrollada con **Flutter**. La aplicación permite realizar varias operaciones matemáticas, tanto básicas como avanzadas.
 
 ## Funcionalidades
