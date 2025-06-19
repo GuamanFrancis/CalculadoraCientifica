@@ -15,8 +15,6 @@ Este es un proyecto de una **calculadora científica** desarrollada con **Flutte
 - **Raíz Cuadrada**
 - **Funciones Trigonométricas** (Seno, Coseno, Tangente)
 - **Verificación de Números Primos**
-- **Logaritmo en Base 10**
-- **Factorial**
 
 ## Descripción
 
